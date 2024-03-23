@@ -75,6 +75,6 @@ h5 {
 }
 
 .d-none {
-    display: none;
+    display: none !important;
     
 }
